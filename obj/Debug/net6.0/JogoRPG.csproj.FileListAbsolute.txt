@@ -1,0 +1,15 @@
+/home/hurias/Documents/JogoRPG/bin/Debug/net6.0/JogoRPG
+/home/hurias/Documents/JogoRPG/bin/Debug/net6.0/JogoRPG.deps.json
+/home/hurias/Documents/JogoRPG/bin/Debug/net6.0/JogoRPG.runtimeconfig.json
+/home/hurias/Documents/JogoRPG/bin/Debug/net6.0/JogoRPG.dll
+/home/hurias/Documents/JogoRPG/bin/Debug/net6.0/ref/JogoRPG.dll
+/home/hurias/Documents/JogoRPG/bin/Debug/net6.0/JogoRPG.pdb
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.AssemblyReference.cache
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfoInputs.cache
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfo.cs
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.CoreCompileInputs.cache
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.dll
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/ref/JogoRPG.dll
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.pdb
+/home/hurias/Documents/JogoRPG/obj/Debug/net6.0/JogoRPG.genruntimeconfig.cache
